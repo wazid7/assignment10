@@ -1,0 +1,27 @@
+.logo {
+  height: 40px;
+}
+.navBar {
+  /* background-color: darkcyan !important; */
+  background-color: #0a3d62 !important;
+}
+.nav-link {
+  color: white !important;
+}
+.nav-link:hover {
+  color: goldenrod !important;
+}
+.badge {
+  font-size: 14px !important;
+  padding: 0 !important;
+  top: -10px !important;
+  width: 15px !important;
+  height: 15px !important;
+  display: inline-block;
+  position: relative;
+}
+.headerPhoto {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
